@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arct0id
+- 👀 I’m interested in gaming and programming
+- 🌱 I’m currently learning Java and Python
+- 📫 How to reach me: / 
